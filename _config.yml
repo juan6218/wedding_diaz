@@ -2,7 +2,7 @@
 #
 
 # Site settings
-title: "Juan + Jackie"
+title: "Jackie + Juan"
 description: |
     San Bernardino, California
 
@@ -16,8 +16,8 @@ url: "http://yourdomain.com" # the base hostname & protocol for your site
 # google_analytics: UA-47395716-3
 
 social:
-  #twitter: https://twitter.com/menzenski
-  # github: https://github.com/menzenski/wedding-site
+  #twitter: https://twitter.com/
+  # github: https://github.com/
   #linkedin-square: https://linkedin.com/in/<username>
   #facebook-official: https://facebook.com/<username>
   #google-plus-square: https://plus.google.com/u/0/+<username>
