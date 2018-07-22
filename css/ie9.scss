@@ -51,6 +51,20 @@
 		}
 	}
 
+	.features3 {
+		display: block;
+
+		li {
+			float: left;
+		}
+
+		&:after {
+			content: '';
+			display: block;
+			clear: both;
+		}
+	}
+
 /* Banner + Wrapper (style4) */
 
 	#banner,
