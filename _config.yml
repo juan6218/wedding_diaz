@@ -11,7 +11,7 @@ owner: Juan Diaz # or company name
 first_published: 2018 # if migrating another site, the year of your first publish
 email: juan6218@gmail.com
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+url: "https://jackieandjuan.sytes.net" # the base hostname & protocol for your site
 
 # google_analytics: UA-47395716-3
 
