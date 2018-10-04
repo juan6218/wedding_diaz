@@ -14,5 +14,8 @@
   <link rel="icon" type="image/png" sizes="32x32" href="{{ "/images/favicons/wedding-couple-32.png" | prepend: site.baseurl }}">
   <link rel="icon" type="image/png" sizes="64x64" href="{{ "/images/favicons/wedding-couple-64.png" | prepend: site.baseurl }}">
   <meta name="theme-color" content="#ffffff">
-  
+  <!-- google analytics -->
+  {% if site.google_analytics and jekyll.environment == 'production' %}
+  {% include analytics.html %}
+  {% endif %}
 </head>
